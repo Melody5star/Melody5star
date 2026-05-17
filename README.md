@@ -2,8 +2,3 @@
 As a seasoned Data Quality Professional with over 8 years of experience, I specialize in ensuring the accuracy and integrity of enterprise data. With five years of expertise in SAP BODS and extensive ETL experience, I excel in seamless high-quality data management. For these years as a Data Migration Consultant it has has equipped me to handle complex migration projects, minimizing business disruption.<br><br>My proficiency as a SQL Developer and Data Quality Rule Developer, coupled with hands-on experience with SAP Information Steward, enables me to manage data quality processes effectively across SAP Supply Chain Management systems. My technical skills also include Cloudera Impala ,Python scripting, exposure to different DQ platform like Syniti DSP, Azure Data bricks for big data processing with SQL. <br><br>My expertise lies in bridging the gap between technical ETL processes and business-critical data governance to ensure seamless S/4HANA transitions and data quality.<br><br>Having worked in healthcare, life sciences, medicines, and pharmaceutical industries, I understand their unique data challenges and regulatory requirements. Committed to business stakeholder engagement, I translate complex data issues into actionable insights, fostering continuous improvement.Let’s connect to explore how my expertise can enhance your data management practices.
 
 
-# 💻 Tech Stack:
----
-[![](https://visitcount.itsvg.in/api?id=Melody5star&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
